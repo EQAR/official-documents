@@ -1,0 +1,20 @@
+
+.prose-diff .markdown-body > ins {
+  background: #e6ffed;
+}
+
+.prose-diff .rich-diff-level-zero.added {
+  background: #e6ffed;
+}
+
+.prose-diff .markdown-body > del {
+  color: #cb2431;
+  text-decoration: line-through;
+  background: #ffdce0;
+}
+
+.prose-diff .rich-diff-level-zero.removed {
+  color: #cb2431;
+  text-decoration: line-through;
+  background: #ffdce0;
+}
