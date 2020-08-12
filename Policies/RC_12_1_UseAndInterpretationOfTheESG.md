@@ -1,12 +1,18 @@
-# Use and Interpretation of the ESG for the European Register of Quality Assurance Agencies
+---
+title: Use and Interpretation of the ESG for the European Register of Quality Assurance Agencies
+subject: EQAR Policy
+keywords: EQAR ESG Policy Use Interpretation Register Agency Review
+eqar-ref: RC/12.1
+eqar-version: 3.0
+eqar-body: Register Committee
+eqar-date: August 2020
+---
 
 # 1. Introduction
 
 The Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG, 2015) provide the European framework against which the quality assurance agencies (QAAs) and their activities are assessed.
 
-The European Quality Assurance Register for Higher Education (EQAR) manages the register of quality assurance agencies that have demonstrated their substantial compliance with the ESG[1].
-
-The Register Committee[2] is EQAR's independent decision-making body that decides on inclusion of quality assurance agencies on the Register.
+The European Quality Assurance Register for Higher Education (EQAR) manages the register of quality assurance agencies that have demonstrated their substantial compliance with the ESG[^esg]. The Register Committee[^rc] is EQAR's independent decision-making body that decides on inclusion of quality assurance agencies on the Register.
 
 EQAR manages and publishes the Database of External Quality Assurance Results (DEQAR). Registered agencies may participate in DEQAR and feed their quality assurance reports and decisions into the database.
 
@@ -14,7 +20,7 @@ EQAR manages and publishes the Database of External Quality Assurance Results (D
 
 Registration on EQAR stands as a quality label for agencies and has developed significant recognition and trust within the EHEA and beyond. In effect, EQAR makes a public statement – and thus seeks to ensure – that higher education accredited, audited, reviewed or evaluated by registered QA agencies is fit for purpose and aligned with ESG Part 1. By doing so, EQAR seeks to serve as a basis for trust and automatic recognition.
 
-This public statement is built on trust in the registered agencies' commitment to continuously ensure compliance with the ESG in their work. Compliance with the ESG is demonstrated through an external review[5] of the applicant/registered agency.
+This public statement is built on trust in the registered agencies' commitment to continuously ensure compliance with the ESG in their work. Compliance with the ESG is demonstrated through an external review[^review] of the applicant/registered agency.
 
 Reviews against the ESG for the purpose of EQAR registration are coordinated by an organisation, chosen by the applicant/registered agency, that has the necessary professional capacity and is independent of the agency under review, and carried out by an independent panel, appointed by the coordinator. The coordinator and the panel thus carry an important responsibility and significant trust is put into their work.
 
@@ -24,9 +30,9 @@ The present policy on the Use and Interpretation of the ESG thus aims to:
 
 * set out how the EQAR Register Committee uses external review reports and makes a decision on their basis;
 * indicate which information the EQAR Register Committee requires to make well-informed, fair and consistent decisions;
-* ensure clarity as to which activities are within the scope of the ESG and, thus, covered by the label “registration on EQAR”[3];
+* ensure clarity as to which activities are within the scope of the ESG and, thus, covered by the label “registration on EQAR”[^trademark];
 * summarise the Register Committee's precedent interpretations and
-* facilitate the understanding of the Register Committee's decisions[4].
+* facilitate the understanding of the Register Committee's decisions[^decisions].
 
 # 3. Key Concepts and Definitions
 
@@ -64,13 +70,13 @@ Where agencies have subsidiaries that are not effectively distinguishable from t
 >
 > The ESG apply to all higher education offered in the EHEA regardless of the mode of study or place of delivery. Thus, the ESG are also applicable to all higher education including transnational and cross-border provision. In this document the term “programme” refers to higher education in its broadest sense, including that which is not part of a programme leading to a formal degree. [...]
 >
-> At the heart of quality assurance activities are the twin purposes of accountability and enhancement. Taken together, these create trust in the higher education institution’s performance.[6]
+> At the heart of quality assurance activities are the twin purposes of accountability and enhancement. Taken together, these create trust in the higher education institution’s performance.[^esg-scope]
 
 The ESG generally relate to processes following an expert or peer review methodology, addressing the quality dimensions described in Part 1 of the ESG, resulting in an official report and frequently also in a formal decision or judgement. In particular, “ESG-type activities” are characterised by the following:
 
 * **(a) Subject**: the activity is substantially concerned with teaching and learning in higher education (see definition of "programme" above), including the learning environment and relevant links to research and innovation.
-* **(b) Object**: the activity concerns (an) organisational unit(s) such as (an) individual higher education institution(s), (a) study programme(s), (a) faculty(ies) or (a) department(s).[8]
-* **(c) Nature**: the activity follows a predefined process in which the object is evaluated/assessed against a set of predefined standards or another reference point, with limited or no flexibility[9]; or the activity is undertaken for the purpose of awarding any kind of certificate, label or mark.
+* **(b) Object**: the activity concerns (an) organisational unit(s) such as (an) individual higher education institution(s), (a) study programme(s), (a) faculty(ies) or (a) department(s).[^staff-evaluations]
+* **(c) Nature**: the activity follows a predefined process in which the object is evaluated/assessed against a set of predefined standards or another reference point, with limited or no flexibility[^third-party-processes]; or the activity is undertaken for the purpose of awarding any kind of certificate, label or mark.
 * **(d) Typical terminology**: the terms “evaluation”, “review”, “audit”, “assessment” or “accreditation” (see ESG 3.1) are used.
 
 The ESG describe their scope in broad terms and do not limit it to statutory or obligatory external QA. The Register Committee therefore considers activities to be within the scope of the ESG irrespective of whether they fulfil a statutory mandate or take place on a voluntary basis.
@@ -87,7 +93,7 @@ Many quality assurance agencies also carry out a range of other activities outsi
 
 These activities are not in themselves pertinent to EQAR registration, but only in terms of their clear and transparent separation from ESG activities (see below).
 
-![Illustration: Typology of agencies' activities](RC_12_3_Chart_EQA_and_other_activities.svg)
+![Figure 1: Typology of agencies' activities](RC_12_3_Chart_EQA_and_other_activities.svg)
 
 ## 4.3 Clarifying the Scope
 
@@ -140,7 +146,7 @@ As a rule, a conclusion of no compliance for any one standard prevents an overal
 
 The overall judgement does not distinguish between substantial compliance and full compliance, since for inclusion on the Register it is sufficient to substantially comply with the ESG. Likewise, if the conclusion is not substantially compliant, no difference is made between partial or no compliance.
 
-![Illustration: Steps to the Register Committee's overall judgement](RC_12_2_Chart_FromStandardToHolistic.svg)
+![Figure 2: Steps to the Register Committee's overall judgement](RC_12_2_Chart_FromStandardToHolistic.svg)
 
 # 6. Interpretations of Specific Standards
 
@@ -300,7 +306,7 @@ Standards 2.1 – 2.7 should be addressed in a distinct chapter, and each standa
 #### Reports should at least address:
 
 * How do the agency's goals and objectives translate into its daily activities?
-* How are the different stakeholders[10] involved in the agency’s governance and work; does the panel consider the level of involvement sufficient?
+* How are the different stakeholders[^esg-stakeholders] involved in the agency’s governance and work; does the panel consider the level of involvement sufficient?
 * How does the agency ensure a clear distinction between external quality assurance and its other fields of work, if applicable (i.e. clear communication and preventing conflict of interest; Annex 5 should be taken into account in that regard)?.
 
 ### 3.2 Official status
@@ -373,27 +379,25 @@ Standards 2.1 – 2.7 should be addressed in a distinct chapter, and each standa
 
 The cyclical review of an agency is a prerequisite for (continued) EQAR registration and inherently fulfilled by the agency undergoing a review.
 
-**Notes**:
+[^esg]: The ESG were first adopted by ministers in Bergen in 2005 at the proposal of the E4 Group, including the European Association for Quality Assurance in Higher Education (ENQA), the European Students’ Union (ESU), the European University Association (EUA) and the European Association of Institutions in Higher Education (EURASHE). Between 2012 and 2015, the ESG were thoroughly revised. The current version of the ESG was adopted by EHEA governments in their Ministerial meeting in Yerevan, in May 2015. <https://www.eqar.eu/kb/esg/>
 
-[1] The ESG were first adopted by ministers in Bergen in 2005 at the proposal of the E4 Group, including the four main European stakeholder organisations in higher education: the European Association for Quality Assurance in Higher Education (ENQA), the European Students’ Union (ESU), the European University Association (EUA) and the European Association of Institutions in Higher Education (EURASHE). Between 2012 and 2015, the ESG were thoroughly revised. The new version of the ESG was adopted by EHEA governments in their Ministerial meeting in Yerevan, in May 2015. See also: https://eqar.eu/application/criteria.html
+[^rc]: The Register Committee includes quality assurance experts from different backgrounds, who are nominated by EQAR's Founding Members (ENQA, ESU, EUA, EURASHE), BUSINESSEUROPE and Education International, but act in their personal capacity as independent experts. <https://www.eqar.eu/about/eqar-structure/register-committee/>
 
-[2] The Committee comprises of quality assurance experts from different backgrounds, who are nominated by EQAR's Founding Members (ENQA, ESU, EUA, EURASHE), BUSINESSEUROPE and Education International, but act in their personal capacity as independent experts. See also: https://eqar.eu/about/register-committee.html
+[^trademark]: EQAR is a registered European Union Trade Mark.
 
-[3] EQAR is a registered European Union Trade Mark.
+[^decisions]: Published at <https://www.eqar.eu/register/decisions/>
 
-[4] Published at: https://eqar.eu/publications/decisions.html
+[^review]: Agencies may use one single external review process and report to support their registration on EQAR as well as for other purposes.
 
-[5] Agencies may use one single external review process and report to support their registration on EQAR as well as for other purposes.
+[^esg-scope]: [Standards and Guidelines for Quality Assurance in the EHEA (2015 version), p. 5](https://www.eqar.eu/kb/esg/)
 
-[6] Standards and Guidelines for Quality Assurance in the EHEA (2015 version), p. 5, see https://eqar.eu/fileadmin/documents/e4/ESG_endorsedMay2015.pdf
+[^eqf]: Equivalent to EQF-LLL levels 5, 6, 7 or 8.
 
-[7] Equivalent to EQF-LLL levels 5, 6, 7 or 8.
+[^staff-evaluations]: Activities concerning the evaluation of individual staff or students, a funding programme, etc. are not within the scope of the ESG.
 
-[8] Activities concerning the evaluation of individual staff or students, a funding programme, etc. are not within the scope of the ESG.
+[^third-party-processes]: The process and standards might have been developed by the registered agency itself or by a third party, e.g. the registered agency implements a process prescribed by regulations of a country where it is operating.
 
-[9] The process and standards might have been developed by the registered agency itself or by a third party, e.g. the registered agency implements a process prescribed by regulations of a country where it is operating.
-
-[10] stakeholders are understood to cover “all actors within an institution, including students and staff, as well as external stakeholders such as employers and external partners of an institution” (see ESG, p. 6).
+[^esg-stakeholders]: stakeholders are understood to cover “all actors within an institution, including students and staff, as well as external stakeholders such as employers and external partners of an institution” (see ESG, p. 6).
 
 # Annex 1: Checklist for Agencies
 
@@ -429,43 +433,43 @@ When carrying out an external review, review panels should ensure that:
 
 # Annex 4: ESG Part 1: Standards for internal quality assurance
 
-## 1.1 Policy for quality assurance
+### 1.1 Policy for quality assurance
 
 > Institutions should have a policy for quality assurance that is made public and forms part of their strategic management. Internal stakeholders should develop and implement this policy through appropriate structures and processes, while involving external stakeholders.
 
-## 1.2 Design and approval of programmes
+### 1.2 Design and approval of programmes
 
 > Institutions should have processes for the design and approval of their programmes. The programmes should be designed so that they meet the objectives set for them, including the intended learning outcomes. The qualification resulting from a programme should be clearly specified and communicated, and refer to the correct level of the national qualifications framework for higher education and, consequently, to the Framework for Qualifications of the European Higher Education Area.
 
-## 1.3 Student-centred learning, teaching and assessment
+### 1.3 Student-centred learning, teaching and assessment
 
 > Institutions should ensure that the programmes are delivered in a way that encourages students to take an active role in creating the learning process, and that the assessment of students reflects this approach.
 
-## 1.4 Student admission, progression, recognition and certification
+### 1.4 Student admission, progression, recognition and certification
 
 > Institutions should consistently apply pre-defined and published regulations covering all phases of the student “life cycle”, e.g. student admission, progression, recognition and certification.
 
-## 1.5 Teaching staff
+### 1.5 Teaching staff
 
 > Institutions should assure themselves of the competence of their teachers. They should apply fair and transparent processes for the recruitment and development of the staff.
 
-## 1.6 Learning resources and student support
+### 1.6 Learning resources and student support
 
 > Institutions should have appropriate funding for learning and teaching activities and ensure that adequate and readily accessible learning resources and student support are provided.
 
-## 1.7 Information management
+### 1.7 Information management
 
 > Institutions should ensure that they collect, analyse and use relevant information for the effective management of their programmes and other activities.
 
-## 1.8 Public information
+### 1.8 Public information
 
 > Institutions should publish information about their activities, including programmes, which is clear, accurate, objective, up-to date and readily accessible.
 
-## 1.9 On-going monitoring and periodic review of programmes
+### 1.9 On-going monitoring and periodic review of programmes
 
 > Institutions should monitor and periodically review their programmes to ensure that they achieve the objectives set for them and respond to the needs of students and society. These reviews should lead to continuous improvement of the programme. Any action planned or taken as a result should be communicated to all those concerned.
 
-## 1.10 Cyclical external quality assurance
+### 1.10 Cyclical external quality assurance
 
 > Institutions should undergo external quality assurance in line with the ESG on a cyclical basis.
 
