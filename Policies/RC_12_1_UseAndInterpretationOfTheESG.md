@@ -3,7 +3,7 @@ title: Use and Interpretation of the ESG for the European Register of Quality As
 subject: EQAR Policy
 keywords: EQAR ESG Policy Use Interpretation Register Agency Review
 eqar-ref: RC/12.1
-eqar-version: 3.0
+eqar-version: 2.7
 eqar-body: Register Committee
 eqar-date: August 2020
 ---

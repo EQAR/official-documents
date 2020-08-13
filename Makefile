@@ -14,3 +14,6 @@ all: $(TARGETS)
 Policies/%.odt: Policies/%.md Templates/reference.odt Templates/filter.lua
 	cd Policies && ( $(PANDOC) $(PANDOC_OPTIONS) --output=$*.odt $*.md ; cd $(CURDIR) )
 
+clean:
+	cd Policies && rm -f RC_12_1_UseAndInterpretationOfTheESG.odt RC_12_1_UseAndInterpretationOfTheESG.pdf
+
