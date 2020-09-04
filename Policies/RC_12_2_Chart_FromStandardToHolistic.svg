@@ -15,7 +15,6 @@
    <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
    <glyph unicode="→" horiz-adv-x="1893" d="M 983,-266 L 1176,-266 1993,551 1176,1368 983,1368 1731,623 115,623 115,479 1731,479 Z"/>
    <glyph unicode="…" horiz-adv-x="1217" d="M 1370,0 L 1370,188 1182,188 1182,0 Z M 369,0 L 369,188 180,188 180,0 Z M 868,0 L 868,188 680,188 680,0 Z"/>
-   <glyph unicode="w" horiz-adv-x="1487" d="M 1460,1008 L 1300,1008 1071,199 805,1008 678,1008 414,199 182,1008 23,1008 342,0 479,0 741,782 1006,0 1143,0 Z"/>
    <glyph unicode="v" horiz-adv-x="920" d="M 893,1008 L 733,1008 457,199 182,1008 23,1008 391,0 522,0 Z"/>
    <glyph unicode="u" horiz-adv-x="812" d="M 967,0 L 967,1008 819,1008 819,387 C 819,211 719,119 567,119 416,119 322,209 322,387 L 322,1008 174,1008 174,365 C 174,248 205,152 276,82 338,20 428,-12 537,-12 649,-12 750,31 821,113 L 821,0 Z"/>
    <glyph unicode="t" horiz-adv-x="514" d="M 571,0 L 571,127 494,127 C 399,127 356,182 356,274 L 356,889 571,889 571,1001 356,1001 356,1317 209,1317 209,1001 82,1001 82,889 209,889 209,270 C 209,121 295,0 467,0 Z"/>
@@ -121,128 +120,128 @@
      <g class="Page">
       <g class="com.sun.star.drawing.TextShape">
        <g id="id3">
-        <rect class="BoundingBox" stroke="none" fill="none" x="0" y="8436" width="16251" height="1065"/>
-        <path fill="rgb(230,246,255)" stroke="none" d="M 8125,9500 L 0,9500 0,8436 16250,8436 16250,9500 8125,9500 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="3862" y="9221"><tspan fill="rgb(3,49,99)" stroke="none">Conclusions for each standard</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="250" y="186" width="13251" height="1065"/>
+        <path fill="rgb(230,246,255)" stroke="none" d="M 6875,1250 L 250,1250 250,186 13500,186 13500,1250 6875,1250 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="4333" y="971"><tspan fill="rgb(24,73,143)" stroke="none">For each standard</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id4">
-        <rect class="BoundingBox" stroke="none" fill="none" x="16250" y="8436" width="7751" height="1065"/>
-        <path fill="rgb(3,49,99)" stroke="none" d="M 20125,9500 L 16250,9500 16250,8436 24000,8436 24000,9500 20125,9500 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="17537" y="9221"><tspan fill="rgb(233,244,250)" stroke="none">Overall judgement</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="16250" y="186" width="7501" height="1065"/>
+        <path fill="rgb(230,246,255)" stroke="none" d="M 20000,1250 L 16250,1250 16250,186 23750,186 23750,1250 20000,1250 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="17412" y="971"><tspan fill="rgb(24,73,143)" stroke="none">Overall judgement</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id5">
-        <rect class="BoundingBox" stroke="none" fill="none" x="0" y="0" width="6751" height="1065"/>
-        <path fill="rgb(230,246,255)" stroke="none" d="M 3375,1064 L 0,1064 0,0 6750,0 6750,1064 3375,1064 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1521" y="785"><tspan fill="rgb(3,49,99)" stroke="none">Review panel</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="250" y="1500" width="6001" height="1065"/>
+        <path fill="rgb(70,109,165)" stroke="none" d="M 3250,2564 L 250,2564 250,1500 6250,1500 6250,2564 3250,2564 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="854" y="2285"><tspan fill="rgb(233,244,250)" stroke="none">Panel conclusion</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id6">
-        <rect class="BoundingBox" stroke="none" fill="none" x="17000" y="1697" width="7001" height="1001"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="700"><tspan class="TextPosition" x="17717" y="2409"><tspan fill="rgb(3,49,99)" stroke="none">Substantially compliant</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="17000" y="3000" width="7001" height="1001"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="700"><tspan class="TextPosition" x="17717" y="3712"><tspan fill="rgb(24,73,143)" stroke="none">Substantially compliant</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id7">
-        <rect class="BoundingBox" stroke="none" fill="none" x="17000" y="6395" width="7001" height="1606"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="700"><tspan class="TextPosition" x="17255" y="7409"><tspan fill="rgb(3,49,99)" stroke="none">Not substantially compliant</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="17000" y="7698" width="7001" height="1606"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="700"><tspan class="TextPosition" x="17255" y="8712"><tspan fill="rgb(24,73,143)" stroke="none">Not substantially compliant</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.PolyPolygonShape">
        <g id="id8">
-        <rect class="BoundingBox" stroke="none" fill="none" x="13242" y="2697" width="8809" height="4002"/>
-        <path fill="rgb(255,171,0)" stroke="none" d="M 18515,5058 L 18648,5062 18776,5073 18899,5091 19018,5116 19130,5147 19235,5184 19334,5226 19424,5274 19507,5325 19580,5381 19643,5441 19697,5504 19739,5570 19770,5638 19781,5673 19789,5709 19794,5745 19796,5781 18925,5781 20513,6698 22050,5781 21179,5781 21175,5698 21163,5617 21142,5537 21114,5459 21079,5382 21036,5307 20986,5234 20930,5162 20866,5093 20797,5026 20721,4960 20639,4897 20459,4778 20257,4669 20442,4569 20610,4457 20686,4396 20758,4334 20824,4268 20885,4200 20939,4130 20988,4058 21029,3984 21064,3907 21092,3829 21112,3750 21124,3669 21128,3586 22050,3586 20462,2697 18925,3586 19796,3586 19794,3622 19789,3658 19781,3694 19770,3729 19739,3797 19697,3863 19643,3926 19580,3985 19507,4041 19424,4093 19334,4140 19235,4182 19130,4219 19018,4250 18899,4275 18776,4293 18648,4304 18515,4308 15799,4308 13242,4308 13249,5058 18515,5058 Z M 22050,2697 L 22050,2697 Z M 15799,6698 L 15799,6698 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="13241" y="4000" width="8810" height="4003"/>
+        <path fill="rgb(255,171,0)" stroke="none" d="M 18515,6361 L 18648,6365 18776,6376 18899,6394 19018,6419 19130,6450 19235,6487 19334,6529 19424,6577 19507,6628 19580,6684 19643,6744 19697,6807 19739,6873 19770,6941 19781,6976 19789,7012 19794,7048 19796,7084 18925,7084 20513,8001 22050,7084 21179,7084 21175,7001 21163,6920 21142,6840 21114,6762 21079,6685 21036,6610 20986,6537 20930,6465 20866,6396 20797,6329 20721,6263 20639,6200 20459,6081 20257,5972 20442,5872 20610,5760 20686,5699 20758,5637 20824,5571 20885,5503 20939,5433 20988,5361 21029,5287 21064,5210 21092,5132 21112,5053 21124,4972 21128,4889 22050,4889 20462,4000 18925,4889 19796,4889 19794,4925 19789,4961 19781,4997 19770,5032 19739,5100 19697,5166 19643,5229 19580,5288 19507,5344 19424,5396 19334,5443 19235,5485 19130,5522 19018,5553 18899,5578 18776,5596 18648,5607 18515,5611 15799,5611 13242,5611 13249,6361 18515,6361 Z M 22050,4000 L 22050,4000 Z M 15799,8001 L 15799,8001 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id9">
-        <rect class="BoundingBox" stroke="none" fill="none" x="18650" y="2947" width="3751" height="794"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="19746" y="3512"><tspan fill="rgb(255,243,217)" stroke="none">either ...</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="18650" y="4250" width="3751" height="794"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="19746" y="4815"><tspan fill="rgb(255,243,217)" stroke="none">either ...</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id10">
-        <rect class="BoundingBox" stroke="none" fill="none" x="18650" y="5654" width="3751" height="794"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="20110" y="6219"><tspan fill="rgb(255,243,217)" stroke="none">… </tspan><tspan fill="rgb(255,243,217)" stroke="none">or</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="18650" y="6957" width="3751" height="794"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="20110" y="7522"><tspan fill="rgb(255,243,217)" stroke="none">… </tspan><tspan fill="rgb(255,243,217)" stroke="none">or</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id11">
-        <rect class="BoundingBox" stroke="none" fill="none" x="6750" y="0" width="17251" height="1065"/>
-        <path fill="rgb(3,49,99)" stroke="none" d="M 15375,1064 L 6750,1064 6750,0 24000,0 24000,1064 15375,1064 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="11305" y="785"><tspan fill="rgb(233,244,250)" stroke="none">Register Committee decision</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="8000" y="1500" width="15751" height="1065"/>
+        <path fill="rgb(70,109,165)" stroke="none" d="M 15875,2564 L 8000,2564 8000,1500 23750,1500 23750,2564 15875,2564 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="11805" y="2285"><tspan fill="rgb(233,244,250)" stroke="none">Register Committee decision</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id12">
-        <rect class="BoundingBox" stroke="none" fill="none" x="183" y="1724" width="6001" height="1001"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="433" y="2399"><tspan fill="rgb(3,49,99)" stroke="none">Full compliance</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="183" y="3027" width="6001" height="1001"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="433" y="3702"><tspan fill="rgb(70,109,165)" stroke="none">Full compliance</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id13">
-        <rect class="BoundingBox" stroke="none" fill="none" x="183" y="3391" width="6001" height="1001"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="433" y="4066"><tspan fill="rgb(3,49,99)" stroke="none">Substantial compliance</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="183" y="4694" width="6001" height="1001"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="433" y="5369"><tspan fill="rgb(70,109,165)" stroke="none">Substantial compliance</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id14">
-        <rect class="BoundingBox" stroke="none" fill="none" x="183" y="5057" width="6001" height="1001"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="433" y="5732"><tspan fill="rgb(3,49,99)" stroke="none">Partial compliance</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="183" y="6360" width="6001" height="1001"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="433" y="7035"><tspan fill="rgb(70,109,165)" stroke="none">Partial compliance</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id15">
-        <rect class="BoundingBox" stroke="none" fill="none" x="183" y="6724" width="6001" height="1001"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="433" y="7399"><tspan fill="rgb(3,49,99)" stroke="none">Non-compliance</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="183" y="8027" width="6001" height="1001"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="433" y="8702"><tspan fill="rgb(70,109,165)" stroke="none">Non-compliance</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id16">
-        <rect class="BoundingBox" stroke="none" fill="none" x="8150" y="1697" width="7001" height="1471"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8400" y="2372"><tspan fill="rgb(3,49,99)" stroke="none">Compliance</tspan></tspan><tspan class="TextPosition" x="8400" y="2939"><tspan font-size="423px" fill="rgb(3,49,99)" stroke="none">(full or substantial)</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="8150" y="3000" width="7001" height="1471"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8400" y="3675"><tspan fill="rgb(70,109,165)" stroke="none">Compliance</tspan></tspan><tspan class="TextPosition" x="8400" y="4242"><tspan font-size="423px" fill="rgb(70,109,165)" stroke="none">(full or substantial)</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id17">
-        <rect class="BoundingBox" stroke="none" fill="none" x="8150" y="4197" width="7001" height="1001"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8400" y="4872"><tspan fill="rgb(3,49,99)" stroke="none">Partial compliance</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="8150" y="5500" width="7001" height="1001"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8400" y="6175"><tspan fill="rgb(70,109,165)" stroke="none">Partial compliance</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id18">
-        <rect class="BoundingBox" stroke="none" fill="none" x="8150" y="6697" width="7001" height="1001"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8400" y="7372"><tspan fill="rgb(3,49,99)" stroke="none">Non-compliance</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="8150" y="8000" width="7001" height="1001"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8400" y="8675"><tspan fill="rgb(70,109,165)" stroke="none">Non-compliance</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id19">
-        <rect class="BoundingBox" stroke="none" fill="none" x="13249" y="1447" width="3753" height="1502"/>
-        <path fill="rgb(255,171,0)" stroke="none" d="M 13250,1822 L 16063,1822 16063,1447 17001,2197 16063,2948 16063,2572 13250,2572 13250,1822 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13647" y="2366"><tspan fill="rgb(255,243,217)" stroke="none">All standards</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="13250" y="2750" width="3752" height="1502"/>
+        <path fill="rgb(255,171,0)" stroke="none" d="M 13250,3125 L 16063,3125 16063,2750 17001,3500 16063,4251 16063,3875 13250,3875 13250,3125 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13647" y="3669"><tspan fill="rgb(255,243,217)" stroke="none">All standards</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id20">
-        <rect class="BoundingBox" stroke="none" fill="none" x="13249" y="6447" width="3753" height="1503"/>
-        <path fill="rgb(255,171,0)" stroke="none" d="M 13250,6822 L 16063,6822 16063,6447 17001,7197 16063,7948 16063,7572 13250,7572 13250,6822 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13723" y="7366"><tspan fill="rgb(255,243,217)" stroke="none">One or more</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="13250" y="7750" width="3752" height="1503"/>
+        <path fill="rgb(255,171,0)" stroke="none" d="M 13250,8125 L 16063,8125 16063,7750 17001,8500 16063,9251 16063,8875 13250,8875 13250,8125 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13723" y="8669"><tspan fill="rgb(255,243,217)" stroke="none">One or more</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id21">
-        <rect class="BoundingBox" stroke="none" fill="none" x="13250" y="3759" width="7251" height="1878"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13500" y="4867"><tspan fill="rgb(255,243,217)" stroke="none">One or more → holistic judgement</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="13250" y="5062" width="7251" height="1878"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="DINPro, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13500" y="6170"><tspan fill="rgb(255,243,217)" stroke="none">One or more → holistic judgement</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id22">
-        <rect class="BoundingBox" stroke="none" fill="none" x="6749" y="1000" width="1252" height="7502"/>
-        <path fill="rgb(255,171,0)" stroke="none" d="M 8000,4750 L 6749,8501 6749,1000 8000,4750 Z"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="6748" y="2749" width="1253" height="6555"/>
+        <path fill="rgb(255,171,0)" stroke="none" d="M 8000,6026 L 6749,9303 6749,2749 8000,6026 Z"/>
        </g>
       </g>
      </g>
