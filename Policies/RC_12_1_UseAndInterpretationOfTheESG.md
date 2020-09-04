@@ -3,9 +3,9 @@ title: Use and Interpretation of the ESG for the European Register of Quality As
 subject: EQAR Policy
 keywords: EQAR ESG Policy Use Interpretation Register Agency Review
 eqar-ref: RC/12.1
-eqar-version: 2.7
+eqar-version: 3.0
 eqar-body: Register Committee
-eqar-date: August 2020
+eqar-date: September 2020
 ---
 
 # 1. Introduction
@@ -71,13 +71,13 @@ Where agencies have subsidiaries that are not effectively distinguishable from t
 
 > The focus of the ESG is on quality assurance related to learning and teaching in higher education, including the learning environment and relevant links to research and innovation. [...]
 >
-> The ESG apply to all higher education offered in the EHEA regardless of the mode of study or place of delivery. Thus, the ESG are also applicable to all higher education including transnational and cross-border provision. In this document the term “programme” refers to higher education in its broadest sense, including that which is not part of a programme leading to a formal degree. [...]
+> The ESG apply to all higher education offered in the EHEA regardless of the mode of study or place of delivery. Thus, the ESG are also applicable to all higher education including transnational and cross-border provision. [...]
 >
 > At the heart of quality assurance activities are the twin purposes of accountability and enhancement. Taken together, these create trust in the higher education institution’s performance.[^esg-scope]
 
 The ESG generally relate to processes following an expert or peer review methodology, addressing the quality dimensions described in Part 1 of the ESG, resulting in an official report and frequently also in a formal decision or judgement. In particular, “ESG-type activities” are characterised by the following:
 
-* **(a) Subject**: the activity is substantially concerned with teaching and learning in higher education (see definition of "programme" above), including the learning environment and relevant links to research and innovation.
+* **(a) Subject**: the activity is substantially concerned with teaching and learning in higher education (see definition of "programme" in section 3 above), including the learning environment and relevant links to research and innovation.
 * **(b) Object**: the activity concerns (an) organisational unit(s) such as (an) individual higher education institution(s), (a) study programme(s), (a) faculty(ies) or (a) department(s).[^staff-evaluations]
 * **(c) Nature**: the activity follows a predefined process in which the object is evaluated/assessed against a set of predefined standards or another reference point, with limited or no flexibility[^third-party-processes]; or the activity is undertaken for the purpose of awarding any kind of certificate, label or mark.
 * **(d) Typical terminology**: the terms “evaluation”, “review”, “audit”, “assessment” or “accreditation” (see ESG 3.1) are used.
@@ -96,7 +96,7 @@ Many quality assurance agencies also carry out a range of other activities outsi
 * activities that relate to teaching and learning, but that are not external quality assurance in nature (e.g. projects, consultancy services) and do not relate to ESG-type activities; and
 * activities that are neither external quality assurance in nature, nor relate to teaching and learning in higher education.
 
-These activities are not in themselves pertinent to EQAR registration, but only in terms of their clear and transparent separation from ESG activities (see below).
+These activities are not in themselves pertinent to EQAR registration, but only in terms of their clear and transparent separation from ESG activities (see following subsection and Annex 2).
 
 ![Figure 1: Typology of agencies' activities](RC_12_3_Chart_EQA_and_other_activities.svg)
 
@@ -119,23 +119,21 @@ The Register Committee takes the following approach to ensure a clear separation
 
 The statutory criterion for inclusion on the Register is substantial compliance with the ESG. The Register Committee first makes a judgement for each relevant standard (ESG 2.1 – 2.7 and 3.1 – 3.7) and then a holistic judgement on the agency's compliance with the ESG as a whole (see Figure 2).
 
-## 5.1 Evidence Base for Decisions
+The Register Committee uses a system of rapporteurs to analyse the documentation and make a recommendation for decision. A detailed description of the application process can be found in the [Guide for Agencies](https://www.eqar.eu/register/guide-for-agencies/) and the [EQAR Internal Handbook](https://handbook.eqar.eu/).
 
-The Register Committee uses a system of rapporteurs to analyse the documentation and make a recommendation for decision.
+## 5.1 Evidence Base for Decisions
 
 The primary basis of the Register Committee's decision is the external review report, which contains evidence that has been reviewed by an independent, trusted expert panel. As a rule, the Register Committee bases its decision on the panel's analysis and the facts at the time when the external review was undertaken.
 
-If the review report does not fully address the issues describe in this policy or does not fully respond to all issues noted in the Terms of Reference and EQAR's eligibility confirmation, the Register Committee will seek additional clarification from the applicant agency, the review panel or the review coordinator.
+If the review report does not fully address the issues described in this policy or does not fully respond to all issues noted in the Terms of Reference and EQAR's eligibility confirmation, the Register Committee will seek additional clarification from the applicant agency, the review panel or the review coordinator.
 
 Such additional information is analysed by the Register Committee's rapporteurs. That analysis is constrained to a simple, desk-based review. Additional information provided by the applicant agency is therefore only taken into account as far as it can be reasonably reviewed within those constraints; it cannot replace evidence that has been reviewed by and the analysis of an external expert panel.
-
-A detailed description of the application process can be found in the Guide for Applicants and the EQAR Internal Handbook.
 
 ## 5.2 Judgements for Each Standard
 
 In the judgement of each standard the Register Committee distinguishes between compliance (which may be "full" or "substantial"), partial compliance and no compliance.
 
-When questions arise as to how to apply and interpret the standards, the Register Committee considers which understanding contributes best to EQAR's overall mission of ensuring transparency and trust.
+When questions arise as to how to apply and interpret the standards, the Register Committee is guided by EQAR's overall mission of ensuring transparency and trust.
 
 While there might be extenuating circumstances due to different legislative, political and socio-economic factors, the agency has to demonstrate how it meets the requirements of the ESG in its context.
 
@@ -143,7 +141,7 @@ Should the Register Committee not consider the panel's conclusion with regard to
 
 The Register Committee might comment on the panel's analysis even where it concurs with the conclusion for the standard in question. The Committee, however, only does so if it considers necessary to officially note a substantive comment or articulation.
 
-The absence of any comment on a particular standard does therefore not necessarily imply that the Committee concurred with the panel's analysis to the letter, but does imply that the Committee concurred with the review panel's compliance conclusion for that standard.
+The absence of any comment on a particular standard implies that the Committee concurred with the review panel's compliance conclusion for that standard.
 
 ## 5.3 Reaching the Holistic Judgement
 
@@ -153,17 +151,17 @@ If there are one or several standards with which the agency complies only partia
 
 As a rule, a conclusion of no compliance for any one standard prevents an overall judgement of substantial compliance.
 
-The overall judgement does not distinguish between substantial compliance and full compliance, since for inclusion on the Register it is sufficient to substantially comply with the ESG. Likewise, if the conclusion is not substantially compliant, no difference is made between partial or no compliance.
+The overall judgement does not distinguish between substantial compliance and full compliance, since for inclusion on the Register it is sufficient to substantially comply with the ESG. Likewise, if the conclusion is not substantially compliant, no difference is made between partial or no compliance (see Figure 2).
 
 ![Figure 2: Steps to the Register Committee's overall judgement](RC_12_2_Chart_FromStandardToHolistic.svg)
 
 # 6. Interpretations of Specific Standards
 
-In the following, the document summarises the principal interpretations of the standards and expectations of the Register Committee towards reports. For the different standards, the following are provided:
+In the following, the document summarises the principal interpretations of the standards and expectations of the Register Committee towards external review reports. For the different standards, the following are provided:
 
 * **Reports should at least address:** summarises the questions to which the Register Committee expects to find answers in the external review report in order to demonstrate compliance with the standard.
 
-The Register Committee requires that the external review report clearly presents the evidence and the panel's analysis that support the panel's conclusion.
+  The Register Committee requires that the external review report clearly presents the evidence and the panel's analysis that support the panel's conclusion.
 
 * **Interpretations:** specify how the Register Committee interprets a specific standard. They usually cover situations or scenarios where the standard has shown to be unclear or that have led to questions frequently. They are only given for those standards where this is needed, and they are derived from precedents that have been set over the years.
 
@@ -242,7 +240,7 @@ For activities within a framework not determined by the agency itself (e.g. nati
 #### Interpretations:
 
 2. A “consistent follow-up” means that the agency should at least verify the implementation of any conditions imposed with or attached to its decisions; the form of any other follow-up, e.g. of recommendations or suggestions, is at the agency's discretion.
-3. If a site visit is organised as a video conference or similar, it should to be ensured that the expert group is in a position to validate the evidence provided by institutions and to carry out interviews of different stakeholders as it finds appropriate.
+3. If a site visit is organised as a video conference or similar, it should be ensured that the expert group is in a position to validate the evidence provided by institutions and to carry out interviews of different stakeholders as it finds appropriate.
 
 ### 2.4 Peer-review experts
 
@@ -302,7 +300,7 @@ For activities within a framework not determined by the agency itself (e.g. nati
 13. It is in the nature of an appeal that it should be considered by another body than the one whose decision/report is appealed. If that is not the case, the appeals process is considered not effective.
 14. The appeal instance's power may be limited to referring a decision/report back for a new consideration, without being able to change the decision/report itself.
 
-# ESG Part 3: Standards and guidelines for quality assurance agencies
+## ESG Part 3: Standards and guidelines for quality assurance agencies
 
 ### 3.1 Activities, policy and processes for quality assurance
 
